@@ -1,0 +1,23 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rchive/
+bld/
+[Bb]in/
+[Ll]ogs/
+[Ll]og/
+*.cache
+.vscode/
+.idea/
+.DS_Store
+opencode.json
+*.csv
